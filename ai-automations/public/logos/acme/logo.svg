@@ -1,9 +1,1 @@
-<svg width="80" height="56" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <path
-  d="M11.304 49C1.788 28.14 9.345 7 21.381 7c15.394.54 22.39 42 10.635 42-11.283 0-15.393-42 5.879-42C50.21 7 56.367 40.262 74 40.262"
-  stroke="#000"
-  stroke-width="8"
-  stroke-linecap="round"
-  stroke-linejoin="bevel"
-/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="56" fill="none"><path stroke="#000" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="8" d="M11.304 49C1.788 28.14 9.345 7 21.381 7c15.394.54 22.39 42 10.635 42-11.283 0-15.393-42 5.879-42C50.21 7 56.367 40.262 74 40.262"/></svg>
